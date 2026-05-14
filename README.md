@@ -1,18 +1,18 @@
 # Ram Preetham Kanchi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IIT+Kharagpur+Graduate;Incoming+SDE+@+Ola;Gold+Medalist+-+GC+Opensoft;Building+Distributed+Systems+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Incoming+SDE+@+Ola;IIT+Kharagpur+Graduate" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am an Alumnus of **IIT Kharagpur**, passionate about building scalable distributed systems and high-performance Machine Learning pipelines. Currently, I am an **Incoming Software Development Engineer** at **Ola Krutrim**.
+Computer Science graduate from IIT Kharagpur ('26) and Incoming Software Engineer at Ola Krutrim.
 
-- 🏅 **Gold Medalist** at GC Opensoft (Conversational AI).
-- 🛠️ Deeply interested in **Distributed Systems** (Raft, OT) and **Computer Vision** (Surgical Risk Prediction).
-- 🤖 Exploring the intersection of **Agentic AI** and software engineering.
+I am passionate about building scalable software, exploring the practical applications of Artificial Intelligence, agentic AI and exploring new technologies. My experience lies in Backend Development, Distributed Systems, and Machine Learning.
+
+⚡ Exploring the intersection of **Agentic AI** and software engineering.
 
 ---
 
@@ -25,19 +25,22 @@ I am an Alumnus of **IIT Kharagpur**, passionate about building scalable distrib
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Languages
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,cpp,js,ts,react,nextjs,fastapi,express,mongodb,postgres,docker,kubernetes,aws,pytorch,linux" />
-  </a>
-</p>
+**Programming Languages:**
+- C, C++, Python, Java, JavaScript/TypeScript, Go, SQL, Solidity, Verilog
 
-**Core Technologies:**
-- **Languages:** Python, Go, C++, JavaScript/TypeScript.
-- **Frameworks:** PyTorch, React, FastAPI, Express.js.
-- **Infrastructure:** Docker, Kubernetes, gRPC, AWS EKS.
-- **Specialized:** YOLO, Transformers, Distributed Consensus (Raft), Operational Transformation (OT).
+**Frameworks & Libraries:**
+- PyTorch, YOLOv11, Transformers, Express.js, FastAPI, Django, ReactJS, Ollama
+
+**Databases:**
+- MongoDB, PostgreSQL, BoltDB
+
+**Cloud & DevOps:**
+- Docker, Kubernetes, H100 Cluster, AWS EKS, gRPC, Tmux
+
+**General:**
+- Web Development, Backend Development, Generative AI, Agentic Software Development, DevOps, Object Oriented Programming, Performance Testing
 
 ---
 
@@ -57,14 +60,6 @@ I am an Alumnus of **IIT Kharagpur**, passionate about building scalable distrib
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Repositories
 
-- **[Distributed Collaborative Editor](https://github.com/rampreethamkanchi/distributed-collaborative-editor)**: A high-performance editor with a custom-built Raft consensus engine and Operational Transformation (OT) for real-time consistency.
-- **[SurgTriNet](https://github.com/rampreethamkanchi/SurgTriNet)**: A multi-modal surgical risk prediction system utilizing YOLOv11 and temporal aggregators for real-time instrument and phase detection.
-- **[GC Opensoft Conversational AI](https://github.com/rampreethamkanchi/conversational-ai)**: A gold-medal winning project at IIT Kharagpur focusing on intelligent agentic workflows.
-
----
-
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci
-</p>
+Check out my pinned repositories below! 👇
