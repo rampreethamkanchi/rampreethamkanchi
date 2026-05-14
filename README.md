@@ -25,41 +25,6 @@ I am passionate about building scalable software, exploring the practical applic
 
 ---
 
-### 🛠️ Skills & Languages
-
-**Programming Languages:**
-- C, C++, Python, Java, JavaScript/TypeScript, Go, SQL, Solidity, Verilog
-
-**Frameworks & Libraries:**
-- PyTorch, YOLOv11, Transformers, Express.js, FastAPI, Django, ReactJS, Ollama
-
-**Databases:**
-- MongoDB, PostgreSQL, BoltDB
-
-**Cloud & DevOps:**
-- Docker, Kubernetes, H100 Cluster, AWS EKS, gRPC, Tmux
-
-**General:**
-- Web Development, Backend Development, Generative AI, Agentic Software Development, DevOps, Object Oriented Programming, Performance Testing
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rampreethamkanchi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="Ram's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampreethamkanchi&theme=midnight-purple&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=C9D1D9" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampreethamkanchi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
----
-
 ### 🌟 Repositories
 
 Check out my pinned repositories below! 👇
