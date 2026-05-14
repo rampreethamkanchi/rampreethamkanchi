@@ -1,7 +1,7 @@
 # Ram Preetham Kanchi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Incoming+SDE+@+Ola;IIT+Kharagpur+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Incoming+SDE+@+Ola+Krutrim;IIT+Kharagpur+Graduate" alt="Typing SVG" />
 </p>
 
 ---
