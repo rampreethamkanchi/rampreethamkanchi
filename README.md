@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Computer Science graduate from IIT Kharagpur ('26) and Incoming Software Engineer at Ola Krutrim.
+Computer Science graduate from IIT Kharagpur ('26) and Software Engineer at Ola.
 
 I am passionate about building scalable software, exploring the practical applications of Artificial Intelligence, agentic AI and exploring new technologies. My experience lies in Backend Development, Distributed Systems, and Machine Learning.
 
